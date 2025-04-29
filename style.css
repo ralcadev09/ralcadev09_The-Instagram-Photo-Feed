@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.instagram-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: white;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.instagram-header h4 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.post {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin: 30px auto;
+    max-width: 500px;
+}
+
+.post img {
+    width: 100%;
+    height: auto;
+}
+
+.post-caption {
+    padding: 15px;
+}
+
+.likes {
+    font-weight: bold;
+}
